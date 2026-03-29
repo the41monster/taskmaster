@@ -150,3 +150,5 @@ Behavior:
 - Frontend is a single file app in taskmaster/frontend/index.html.
 - Backend auto-creates tables on startup via SQLAlchemy metadata.
 - Uploaded files are served from /uploads.
+
+
